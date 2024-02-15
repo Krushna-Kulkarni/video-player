@@ -18,4 +18,5 @@ Comprehensive Video Player made with only HTML, CSS and Vanilla JavaSript.
 - Picture-In-Picture mode
 - Volume control 
 - Hover thumbnail previews.
+- Live Closed Captions
 
